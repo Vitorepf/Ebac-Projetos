@@ -1,1 +1,3 @@
 # Ebac-Projetos
+
+Nesse projeto foi desenvolvido uma tela com campos de nome, cpf,endereço, telefone, número, cidade e estado, e ao preencher os campos os dados são salvos e fica visivel todos os clientes em uma tabela que fica logo a baixo. Nesse programa tambem tem 4 botoes, salvar( salva os dados), limpar( que limpa os campos) , excluir(exclui os clientes), atualizar(que atualiza os dados dos clientes).
